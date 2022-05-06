@@ -8,11 +8,11 @@ Standard boilerplate to build a modern website on
 
 ← `index.html`: Built as a single page website, with one stylesheet. 📝
 
+← `assets`: Images + Typefaces + Favicon + CSS + JS 🖼
+
 ← `style.css`: Stylesheets detailing every bit of the website, arranged visually. 🌈
 
 ← `script.js`: JS Functions 👾
-
-← `assets`: Images + Typefaces + Favicon + CSS + JS🖼
 
 
 ## About
