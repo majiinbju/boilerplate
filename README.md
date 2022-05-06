@@ -10,9 +10,9 @@ Standard boilerplate to build a modern website on
 
 ← `style.css`: Stylesheets detailing every bit of the website, arranged visually. 🌈
 
-← `script.js`: JS Function (Smooth Scroll) 👾
+← `script.js`: JS Functions 👾
 
-← `assets`: Images + GIF + Favicon 🖼
+← `assets`: Images + Typefaces + Favicon + CSS + JS🖼
 
 
 ## About
