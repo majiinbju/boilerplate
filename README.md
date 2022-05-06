@@ -1,5 +1,7 @@
 # ____Boilerplate Site____
 
+## About
+
 Standard boilerplate to build a modern website on
 
 ## Code + Files 🗄
@@ -15,8 +17,5 @@ Standard boilerplate to build a modern website on
 ← `script.js`: JS Functions 👾
 
 
-## About
-
-
-___Website designed and developed by Vivek Bajaj___
+# ___Website designed and developed by Vivek Bajaj___
 
