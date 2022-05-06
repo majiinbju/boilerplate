@@ -17,5 +17,5 @@ Standard boilerplate to build a modern website on
 ← `script.js`: JS Functions 👾
 
 
-# ___Website designed and developed by Vivek Bajaj___
+## ___Website designed and developed by Vivek Bajaj___
 
