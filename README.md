@@ -1,6 +1,6 @@
 # ____Boilerplate Site____
 
-## Standard boilerplate to build a modern website on
+Standard boilerplate to build a modern website on
 
 ## Code + Files 🗄
 
