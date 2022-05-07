@@ -9,7 +9,7 @@
 - CSS files include debug.css & reset.css stylesheets <br>
 - jQuery tag included in header
 ---
-## CODE + FILES 🗄
+## `📂` CODE + FILES
 ---
 ← `README.md`: Documentation of the project ✏️
 
@@ -30,7 +30,7 @@ created by [@majiinbju](https://github.com/majiinbju)
 ---
 ### `🪪` LICENSE
 ---
-> this boileplate is [MIT licensed](https://github.com/majiinbju/joga/blob/main/LICENSE) and meant to be used by anyone and everyone looking to build a modern, responsive website
+> this boilerplate is [MIT licensed](LICENSE.md)
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
