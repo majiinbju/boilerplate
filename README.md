@@ -20,6 +20,7 @@
 ← `style.css`: Stylesheets detailing every bit of the website, arranged visually. 🌈
 
 ← `script.js`: JS Functions 👾
+
 ---
 ### `⚜️` DESIGN + DEV
 ---
