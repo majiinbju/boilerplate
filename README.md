@@ -30,7 +30,7 @@ created by [@majiinbju](https://github.com/majiinbju)
 ---
 ### `🪪` LICENSE
 ---
-> this boileplate is [MIT licensed](LICENSE.md)
+> this boilerplate is [MIT licensed](LICENSE.md)
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
 > [@majiinbju](https://github.com/majiinbju) &nbsp;&middot;&nbsp;
