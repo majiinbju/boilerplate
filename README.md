@@ -3,10 +3,10 @@
 > standard boilerplate to be used as a template to build on
 ---
 ## `📑` SUMMARY
-> boilerplate to use as a template<br>
-> variables in css style sheets to make things easy to change as well as a separate stylesheet for media queries<br>
-> all hyperlinks are working correctly, and all assets have been linked properly including CSS and JS files<br>
-> CSS files include debug.css & reset.css stylesheets<br>
+> boilerplate to use as a template <br>
+> variables in css style sheets to make things easy to change as well as a separate stylesheet for media queries <br>
+> all hyperlinks are working correctly, and all assets have been linked properly including CSS and JS files <br>
+> CSS files include debug.css & reset.css stylesheets <br>
 > jQuery tag included in header
 ---
 ## CODE + FILES 🗄
