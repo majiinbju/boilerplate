@@ -9,7 +9,7 @@
 - CSS files include debug.css & reset.css stylesheets <br>
 - jQuery tag included in header
 ---
-## CODE + FILES 🗄
+## `🗄` CODE + FILES
 ---
 ← `README.md`: Documentation of the project ✏️
 
