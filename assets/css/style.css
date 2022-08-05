@@ -4,14 +4,12 @@
 
 /* Root Value Stylings */
 
-html {
-    font-size: 16px;
-}
 
 :root {
+    --std-margin: 3rem;
     --font-size: 2rem;
     --font-color: white;
-    --gradient: linear-gradient(0deg, rgba(36,0,0,1) 0%, rgba(255,216,4,1) 50%, rgba(255,255,255,1) 100%);
+    --background-color: gray;
 }
 
 *,
@@ -27,75 +25,9 @@ html {
 
 
 body {
-    background: rgb(36, 0, 0);
-    background: var(--gradient);
+    background-color: var(--background-color);
+    margin: var(--std-margin);
     font-size: var(--font-size);
-    margin: 0rem;
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: sans-serif;
     color: var(--font-color);
-    min-height: 100vh;
-}
-
-/* Lyrics */
-.marquee {
-    position: fixed;
-   left: 0;
-   bottom:-20px;
-   width: 100%;
- color:gold;
-   background-color: black;
-   padding: 10px;
-   border-top: 2px dotted gold;
- overflow: hidden;
- white-space: nowrap;
- box-sizing: border-box;
-   font-family: 'OCR-A', monospace;
-   font-size: 16px;
-   line-height: 1.25;
-   color: white;
-}
-
-.marquee span {
-   display: inline-block;
-   padding-left: 100%;
- color:gold;
-   will-change: transform;
-   animation: marquee 200s linear infinite;
-}
-
-.marquee span:hover {
-   animation-play-state: paused
-}
-
-@keyframes marquee {
-   0% { transform: translate(0, 0); }
-   100% { transform: translate(-100%, 0); }
-}
-
-.black{
- color:black; 
-}
-
-/* Section 1 - Intro */
-h1 {
-    color: black;
-    margin: 0rem;
-    font-size: 5rem;    
-    text-transform: uppercase;
-}
-
-.intro {
-    width: 100%;
-    height: 100%;
-    flex-direction: column;
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.summary {
-    width: 40%;
-    color: black;
-    text-align: center;
 }
